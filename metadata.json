@@ -1,0 +1,5 @@
+{
+  "name": "React Pac-Man Clone",
+  "description": "A classic Pac-Man style arcade game built with React and Tailwind CSS. Players navigate a maze, eat pellets, and avoid ghosts. The game features scoring, lives, power-pellets, and win/lose conditions.",
+  "requestFramePermissions": []
+}
